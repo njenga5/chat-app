@@ -2,10 +2,10 @@
 A chatting application using WebRTC as the transport protocol.
 
 ## Features
-**Private messaging*
-**Group messaging*
-**Message persistence*
-**Showing online status of a user*
+* *Private messaging*
+* *Group messaging*
+* *Message persistence*
+* *Showing online status of a user*
 
 ## Installing
 ```sh
