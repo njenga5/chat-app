@@ -1,6 +1,6 @@
 import { Avatar, makeStyles } from "@material-ui/core";
 import { Done, DoneAll } from "@material-ui/icons";
-import thumbnail from "../../cod.jpg";    //Please load your images here
+import thumbnail from "../../cod.jpg";    //Please load your icon here
 import bg from "../../bg.jpg";
 
 const useStyles = makeStyles((theme) => ({
